@@ -1,0 +1,2 @@
+import{p as t,b as o}from"./p-941f43ed.js";export{s as setNonce}from"./p-941f43ed.js";const e=()=>{const o=import.meta.url;const s={};if(o!==""){s.resourcesUrl=new URL(".",o).href}return t(s)};e().then((t=>o([["p-fbc01567",[[1,"button-component"]]],["p-4dd8ddb4",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],t)));
+//# sourceMappingURL=stencil-component.esm.js.map

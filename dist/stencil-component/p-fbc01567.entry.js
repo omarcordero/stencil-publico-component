@@ -1,0 +1,2 @@
+import{r as t,h as o}from"./p-941f43ed.js";const n="";const r=class{constructor(o){t(this,o)}render(){return o("button",null,"Botón de prueba")}};r.style=n;export{r as button_component};
+//# sourceMappingURL=p-fbc01567.entry.js.map
